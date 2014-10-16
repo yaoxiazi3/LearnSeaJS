@@ -7,4 +7,6 @@ This is a new line.
 
 This is a new branch.
 
+Merge other.
+
 This is a new line for master.
