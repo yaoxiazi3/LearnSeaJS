@@ -10,3 +10,5 @@ This is a new branch.
 Merge other.
 
 This is a new line for master.
+
+This is a new line for other.
